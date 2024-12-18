@@ -4,7 +4,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 import Home from "./src/pages/Home";
 import Chapters from "./src/pages/Chapters";
 import Verses from "./src/pages/Verses";
-
+// teste
 const Stack = createStackNavigator();
 function MyStack() {
   return (
